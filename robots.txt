@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--byg-qr6el54e.com/sitemap.xml
